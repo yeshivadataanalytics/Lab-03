@@ -1,5 +1,6 @@
 # Lab #3: Develop Code Repository and Push Commits 
 
+
 **Points: 10 **
 **Assignment Type: Group submissions**
 
@@ -11,16 +12,18 @@ You will split up into the same groups designated for your final projects and a 
 
 The following outlines the structure of the lab: 
 
-1. **Github:**
-	1. clone repo 
-	2. create and checkout a branch
-	3. make and commit a change to readme.txt
-	4. push your changes back to GitHub
-	5. merge your changes on github.com
 
-2. **Functiions**
-	1. tehr
-	4.  	
+1. **GitHub:**
+	1.1 clone repo 
+	1.2 create and checkout a branch
+	1.3 make and commit a change to readme.txt
+	1.4 push your changes back to GitHub
+	1.5 merge your changes on github.com
+
+2. **script: download date from API and save to S3**
+	2.1. open .ipynb in jupyter
+	2.2 Updates
+	2.3 save to S3
 
 
 ## 1. GitHub:
@@ -34,9 +37,8 @@ GitHub desktop:
 
 ![clone](/img/gui-clone.png)
 
-### 1.3 create and checkout a branch 
 
-
+### 1.2 create and checkout a branch 
 
 ```bash
 git checkout -b <new-branch>
@@ -48,38 +50,48 @@ GitHub desktop:
 
 
 
-### 1.4 make and commit a change to readme.txt
 
-* modify the text in the  box below put a message to your group,
+### 1.3 make and commit a change to readme.txt
 
-```
-
-Modify this text
+* **Modify the text in the  box below put a message to your group,**
 
 ```
 
+hey group now we know how to merge our work together
 
 
-* commit those changes 
+```
+* Save the file
+* Commit those changes 
 
 ```bash
-git add . #add all files that have channges 
+git add . # add all files that have changes 
 git status # see the changes that are staged
-git commit -m " put your commit message here" # commit your changes with a message
+git commit -m "put your commit message here" # commit your changes with a message
+
 ```
 GitHub desktop:
 
 ![commit](/img/gui-commit.png)
 
-### 1.5 Push your changes back to GitHub
+### 1.4  Push your changes back to GitHub
+
 
 ```bash
 git push -u origin <branchname> #push your changes to a new remote branch
 ```
 ![push](img/gui-push.png)
 
+### 1.6 Merge changes 
 
-Merge changes 
+Open a pull request on the repo www.github.com/jacoblgoodman/>
+
+
+
+
+
+
+
 
 2. Create web-scraper to load csv file into S3 Bucket
 3. Run and update web-scraper to iterate through all records stored on the Charities Bureau Website
@@ -89,7 +101,9 @@ In this portion of the lab, you will create a GitHub branch to manage your code 
     • Step 1. Use your GitHub account to create a new branch and repository and input the relevant code. 
         ◦ Step 1.1 Title the branch after your group and the lab (e.g., “Group_1_Lab_03”)
     • Step 2. Enable for cloning for your team and have each team member clone repository to their local GitHub instance
-    • Step 3. Create a READ_ME.mcd file for this project
+
+    • Step 3. Create a READ_ME.md file for this project
+
     • Step 4. Copy the link to the repo and give brandonchiazza@gmail.com permissions. Share it as part of your response to this lab. 
 
 Once you have completed this portion of the lab save your output files in a zipped packaged and send them to brandon.chiazza@yu.edu. You should send one per group. Your file name should look like: <<Group_Name>>_Lab_3_Submission_1
