@@ -74,9 +74,9 @@ GitHub desktop:
 ### 1.5 Push your changes back to GitHub
 
 ```bash
-git push -u origin <branchname> #
+git push -u origin <branchname> #push your changes to a new remote branch
 ```
-
+![push](img/gui-push.png)
 
 
 Merge changes 
