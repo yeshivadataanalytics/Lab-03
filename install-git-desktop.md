@@ -1,6 +1,10 @@
-##GitHub Install Desktop
-https://desktop.github.com/ 
-https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV 
+# GitHub Desktop Installation Instructions
+
+## References:
+
+[GitHub Desktop Download](https://desktop.github.com/)
+
+[Useful How-to on GitHub](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
 
 Follow the steps (there are 7, but none are that complicated) below to create the needed local GitHub repository and push it out the cloud for public sharing. If you've only ever worked on the GitHub website, you might be missing out!
 
