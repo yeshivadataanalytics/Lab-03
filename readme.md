@@ -49,8 +49,6 @@ GitHub desktop:
 ![branch](/img/gui-branch.png)
 
 
-
-
 ### 1.3 make and commit a change to readme.txt
 
 * **Modify the text in the  box below put a message to your group,**
