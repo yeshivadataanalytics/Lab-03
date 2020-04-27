@@ -1,7 +1,7 @@
 # Lab #3: Develop Code Repository and Push Commits 
 
-
-**Points: 10 **
+  
+**Points: 10**  
 **Assignment Type: Group submissions**
 
 ### Description:
@@ -49,9 +49,9 @@ From GitHub desktop you can select clone from the file drop down your use the sh
 
 ### 1.2 Create and checkout a branch 
 
-<img src="/img/branch.png" alt="branchviz" style="zoom:50%;" />
+![]("/img/branch.png|width=5)
 
-Once we have cloned the repository we will create a new **branch** with our *name* and  move our git to this branch by **checking** it out. This will allow us to make and save changes without affecting the "master" branch.
+Once we have cloned the repository, we will create a new **branch** with our *name* and  moved our git to this branch by **checking** it out. This will allow us to make and save changes without affecting the "master" branch.
 
 From the command line, 
 
