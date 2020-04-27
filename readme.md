@@ -71,15 +71,18 @@ git commit -m "put your commit message here" # commit your changes with a messag
 <kbd>
 ![commit](./img/gui-commit.png)
 </kbd>
+
 ### 1.4  Push your changes back to GitHub
 
 
 ```bash
 git push -u origin <branchname> #push your changes to a new remote branch
 ```
+
 <kbd>
 ![push](./img/gui-push.png)
 </kbd>
+
 ### 1.6 Merge changes 
 
 #### 1.6.1 Open a pull request on the repo www.github.com/jacoblgoodman/{repo}>
@@ -107,7 +110,7 @@ git push -u origin <branchname> #push your changes to a new remote branch
 <kbd>
 ![commit](./img/GitHub-pullrequest-commit.png)
 </kbd>
-
+<br>
 <b>Congratulations! You are now a GitHub collaborator!</b>
 
 
