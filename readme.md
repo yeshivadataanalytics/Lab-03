@@ -35,7 +35,7 @@ git clone <repo url>
 
 GitHub desktop:
 <kbd>
-![clone](/img/gui-clone.png)
+![clone](/img/gui-clone.png = 100x20)
 </kbd>
 
 ### 1.2 create and checkout a branch 
@@ -44,7 +44,7 @@ GitHub desktop:
 git checkout -b <new-branch>
 ```
 <kbd>
-![branch](/img/gui-branch.png)
+![branch](/img/gui-branch.png | width=100)
 </kbd>
 
 ### 1.3 make and commit a change to readme.txt
@@ -69,7 +69,7 @@ git commit -m "put your commit message here" # commit your changes with a messag
 
 ```
 <kbd>
-![commit](/img/gui-commit.png)
+![commit](/img/gui-commit.png =100x20)
 </kbd>
 ### 1.4  Push your changes back to GitHub
 
@@ -82,24 +82,33 @@ git push -u origin <branchname> #push your changes to a new remote branch
 </kbd>
 ### 1.6 Merge changes 
 
-Open a pull request on the repo www.github.com/jacoblgoodman/{repo}>
+#### 1.6.1 Open a pull request on the repo www.github.com/jacoblgoodman/{repo}>
 <kbd>
-![pull request](img/GitHub-pullrequest-newpr.png)
-</kbd>
-select the branch that you pushed
-<kbd>
-![select branch](img/GitHub-pullrequest-branch.png)
-</kbd>
-resolve and conflicts
-<kbd>
-![conflicts]( img/GitHub-pullrequest-resolve .png)
-</kbd>
-commit the merge and close the Pull Request
-<kbd>
-![commit]( img/GitHub-pullrequest-commit.png)
+![pull request](img/GitHub-pullrequest-newpr.png =100x20)
 </kbd>
 
-Congradulations are now a git colaborator 
+
+#### 1.6.2 select the branch that you pushed
+
+<kbd>
+![select branch](img/GitHub-pullrequest-branch.png =100x20)
+</kbd>
+
+
+#### 1.6.3 resolve and conflicts
+
+<kbd>
+![conflicts]( img/GitHub-pullrequest-resolve .png =100x20)
+</kbd>
+
+
+#### 1.6.4 commit the merge and close the Pull Request
+
+<kbd>
+![commit]( img/GitHub-pullrequest-commit.png =100x20)
+</kbd>
+
+<b>Congratulations! You are now a GitHub collaborator!</b>
 
 
 ## 2. script: download date from API and save to S3:
