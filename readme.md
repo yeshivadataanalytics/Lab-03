@@ -43,8 +43,6 @@ GitHub desktop:
 ```bash
 git checkout -b <new-branch>
 ```
-
-GitHub desktop:
 <kbd>
 ![branch](/img/gui-branch.png)
 </kbd>
@@ -70,7 +68,6 @@ git status # see the changes that are staged
 git commit -m "put your commit message here" # commit your changes with a message
 
 ```
-GitHub desktop:
 <kbd>
 ![commit](/img/gui-commit.png)
 </kbd>
@@ -109,9 +106,11 @@ Congradulations are now a git colaborator
 
 Now that you have installed GitHub Desktop and collaborated on a piece of code, we are going to develop a basic API call to pull data from a web service and convert it into a file to be consumed into a database. 
 
-To get started, take the steps necessary to create a repository for your Group. You should title it by the group names and add brandon.chiazza@gmail.com and jacoblgoodman@gmail.com as collaboraters to those repositories. 
+To get started, take the steps necessary to create a repository for your Group. You should title it by the group names and add brandon.chiazza@gmail.com and jacoblgoodman@gmail.com as collaborators to those repositories. 
 
-Upon initiating the GitHub Repo for your Group, create a readme.md file and add the names of the group members to the read me. Your result should look something like this: 
+Upon initiating the GitHub Repo for your Group, create a readme.md file and add the names of the group members to the read me. 
+
+Your result should look something like this: 
 <kbd>
 ![ReadMe](img/readme_lab.PNG)
 </kbd>
