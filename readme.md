@@ -69,7 +69,7 @@ git commit -m "put your commit message here" # commit your changes with a messag
 
 ```
 <kbd>
-![commit](/img/gui-commit.png =100x20)
+![commit](/img/gui-commit.png )
 </kbd>
 ### 1.4  Push your changes back to GitHub
 
@@ -84,28 +84,28 @@ git push -u origin <branchname> #push your changes to a new remote branch
 
 #### 1.6.1 Open a pull request on the repo www.github.com/jacoblgoodman/{repo}>
 <kbd>
-![pull request](img/GitHub-pullrequest-newpr.png =100x20)
+![pull request](img/GitHub-pullrequest-newpr.png )
 </kbd>
 
 
 #### 1.6.2 select the branch that you pushed
 
 <kbd>
-![select branch](img/GitHub-pullrequest-branch.png =100x20)
+![select branch](img/GitHub-pullrequest-branch.png )
 </kbd>
 
 
 #### 1.6.3 resolve and conflicts
 
 <kbd>
-![conflicts]( img/GitHub-pullrequest-resolve .png =100x20)
+![conflicts]( img/GitHub-pullrequest-resolve .png )
 </kbd>
 
 
 #### 1.6.4 commit the merge and close the Pull Request
 
 <kbd>
-![commit]( img/GitHub-pullrequest-commit.png =100x20)
+![commit]( img/GitHub-pullrequest-commit.png )
 </kbd>
 
 <b>Congratulations! You are now a GitHub collaborator!</b>
