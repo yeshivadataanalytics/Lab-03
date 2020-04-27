@@ -34,9 +34,9 @@ git clone <repo url>
 ```
 
 GitHub desktop:
-
+<kbd>
 ![clone](/img/gui-clone.png)
-
+</kbd>
 
 ### 1.2 create and checkout a branch 
 
@@ -45,9 +45,9 @@ git checkout -b <new-branch>
 ```
 
 GitHub desktop:
-
+<kbd>
 ![branch](/img/gui-branch.png)
-
+</kbd>
 
 ### 1.3 make and commit a change to readme.txt
 
@@ -71,35 +71,36 @@ git commit -m "put your commit message here" # commit your changes with a messag
 
 ```
 GitHub desktop:
-
+<kbd>
 ![commit](/img/gui-commit.png)
-
+</kbd>
 ### 1.4  Push your changes back to GitHub
 
 
 ```bash
 git push -u origin <branchname> #push your changes to a new remote branch
 ```
+<kbd>
 ![push](img/gui-push.png)
-
+</kbd>
 ### 1.6 Merge changes 
 
 Open a pull request on the repo www.github.com/jacoblgoodman/{repo}>
-
+<kbd>
 ![pull request](img/GitHub-pullrequest-newpr.png)
-
+</kbd>
 select the branch that you pushed
-
+<kbd>
 ![select branch](img/GitHub-pullrequest-branch.png)
-
+</kbd>
 resolve and conflicts
-
+<kbd>
 ![conflicts]( img/GitHub-pullrequest-resolve .png)
-
+</kbd>
 commit the merge and close the Pull Request
-
+<kbd>
 ![commit]( img/GitHub-pullrequest-commit.png)
-
+</kbd>
 
 Congradulations are now a git colaborator 
 
@@ -111,10 +112,6 @@ Now that you have installed GitHub Desktop and collaborated on a piece of code, 
 To get started, take the steps necessary to create a repository for your Group. You should title it by the group names and add brandon.chiazza@gmail.com and jacoblgoodman@gmail.com as collaboraters to those repositories. 
 
 Upon initiating the GitHub Repo for your Group, create a readme.md file and add the names of the group members to the read me. Your result should look something like this: 
-
-# Group 1 - Lab 3 Exercise 
-
-| Name		| Email	        |
-| ------------- | ------------- |
-| Brandon Chiazza  | brandon.chiazza@yu.edu |
-| Jacob Goodman	 | jacoblgoodm1@mail.yu.edu  |
+<kbd>
+![ReadMe](img/readme_lab.PNG)
+</kbd>
