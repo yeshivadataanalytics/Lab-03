@@ -44,7 +44,7 @@ GitHub desktop:
 git checkout -b <new-branch>
 ```
 <kbd>
-![branch](/img/gui-branch.png | width=100)
+![branch](/img/gui-branch.png)
 </kbd>
 
 ### 1.3 make and commit a change to readme.txt
@@ -69,7 +69,7 @@ git commit -m "put your commit message here" # commit your changes with a messag
 
 ```
 <kbd>
-![commit](/img/gui-commit.png )
+![commit](/img/gui-commit.png)
 </kbd>
 ### 1.4  Push your changes back to GitHub
 
@@ -84,28 +84,28 @@ git push -u origin <branchname> #push your changes to a new remote branch
 
 #### 1.6.1 Open a pull request on the repo www.github.com/jacoblgoodman/{repo}>
 <kbd>
-![pull request](img/GitHub-pullrequest-newpr.png )
+![pull request](img/GitHub-pullrequest-newpr.png)
 </kbd>
 
 
 #### 1.6.2 select the branch that you pushed
 
 <kbd>
-![select branch](img/GitHub-pullrequest-branch.png )
+![select branch](img/GitHub-pullrequest-branch.png)
 </kbd>
 
 
 #### 1.6.3 resolve and conflicts
 
 <kbd>
-![conflicts]( img/GitHub-pullrequest-resolve .png )
+![conflicts]( img/GitHub-pullrequest-resolve.png)
 </kbd>
 
 
 #### 1.6.4 commit the merge and close the Pull Request
 
 <kbd>
-![commit]( img/GitHub-pullrequest-commit.png )
+![commit]( img/GitHub-pullrequest-commit.png)
 </kbd>
 
 <b>Congratulations! You are now a GitHub collaborator!</b>
