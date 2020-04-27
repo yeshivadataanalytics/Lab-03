@@ -44,7 +44,7 @@ GitHub desktop:
 git checkout -b <new-branch>
 ```
 <kbd>
-![branch](/img/gui-branch.png)
+![branch](/img/gui-commit.png)
 </kbd>
 
 ### 1.3 make and commit a change to readme.txt
