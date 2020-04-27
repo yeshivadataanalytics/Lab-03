@@ -19,97 +19,143 @@ The following outlines the structure of the lab:
 	1.3 make and commit a change to readme.txt
 	1.4 push your changes back to GitHub
 	1.5 merge your changes on github.com
-
 2. **script: download date from API and save to S3**
-	2.1. open .ipynb in jupyter
-	2.2 Updates
-	2.3 save to S3
+	2.1. Create a group repo
+	2.2. Open .ipynb in jupyter
+	2.3. Updates
+	2.4  save to S3
 
 
 ## 1. GitHub:
 ### 1.1 clone repo 
 
+The first step is to "Clone" the repository. This copy's the files to your local computer and creates a connection to repository. 
+
+From the command you can type the following command: 
+
 ```bash
-git clone <repo url>
+git clone <repo url> #replace <repo url> with the url of the reposiotry on github
 ```
 
-GitHub desktop:
-<kbd>
+
+
+From GitHub desktop you can select clone from the file drop down your use the shortcut `Ctrl+shift+O`:
+
 ![clone](./img/gui-clone.png)
-</kbd>
 
-### 1.2 create and checkout a branch 
 
+
+
+
+### 1.2 Create and checkout a branch 
+
+<img src="/img/branch.png" alt="branchviz" style="zoom:50%;" />
+
+Once we have cloned the repository we will create a new **branch** with our *name* and  move our git to this branch by **checking** it out. This will allow us to make and save changes without affecting the "master" branch.
+
+From the command line, 
+
+1. navigate into the repo. 
+
+   ```bash
+   cd <repo name> # cd stands for change directory and moves us to the folder we specify <repo name>
+   ```
+
+   
+
+2. Create a new branch and check it out we use the checkout command.
 ```bash
-git checkout -b <new-branch>
+git checkout -b <new-branch>  # the -b flag allows us to create a new repo and check it out in the
+						    # same step. don't forget to replace <new-branch> with your name
 ```
-<kbd>
-![branch](./img/gui-commit.png)
-</kbd>
 
-### 1.3 make and commit a change to readme.txt
+From GitHub desktop, click the current branch dropdown and then select new branch  
 
-* **Modify the text in the  box below put a message to your group,**
+![branch](./img/gui-branch.png)
 
-```
-adding above
 
-looking a how to merge files 
 
-and below
 
-```
-* Save the file
-* Commit those changes 
 
+### 1.3 make and commit a change to hellogroup.txt
+
+We are now going to modify this repository and save those changes into git by **Committing ** them to the repository.  This will allow us to share our changes back to the repository on github.com.	
+
+
+We will now make an update to repository:
+1. Open the hellogroup.txt file located in the base directory of the repository
+2. Write a message for your group
+3.  Save the file
+4.  Commit those changes 
+
+From the command line to commit changes we must first stage them with `git add` . once 
 ```bash
 git add . # add all files that have changes 
 git status # see the changes that are staged
 git commit -m "put your commit message here" # commit your changes with a message
 
 ```
-<kbd>
+
+
+
+On GitHub desktop we use the commit button on the bottom left of the screen. 
+
 ![commit](./img/gui-commit.png)
-</kbd>
 
 ### 1.4  Push your changes back to GitHub
 
+Once we have have committed our changes to the Local repository we want to share them so our group can see the nice message we wrote them. to do this we **push** the changes. 
+
+
+
+From the command line, we use the `push` command. because this is the first time you are pushing this repo and because our new branch doesn't yet exist on github.com we have to use the `-u` option ,which sets the upstream branch so git knows where to push our updates in the future, and we need to specific the remote: origin (the default) and branch name. 
+
 
 ```bash
-git push -u origin <branchname> #push your changes to a new remote branch
+git push -u origin <branchname> # push your changes to a new remote branch
 ```
 
-<kbd>
+
+
+On GitHub desktop the publish branch button will push our changes to a new branch on Github.com  
+
 ![push](./img/gui-push.png)
-</kbd>
+
+
+
+
 
 ### 1.6 Merge changes 
 
-#### 1.6.1 Open a pull request on the repo www.github.com/jacoblgoodman/{repo}>
-<kbd>
+Once our branch is published to github.com we want to merge those changes back to the master branch. 
+
+
+
+#### 1.6.1 Open a pull request on the repo  https://github.com/yeshivadataanalytics/{reponame}>
+
 ![pull request](./img/GitHub-pullrequest-newpr.png)
-</kbd>
 
 
-#### 1.6.2 select the branch that you pushed
 
-<kbd>
+#### 1.6.2 Select the branch that you pushed
+
+
 ![select branch](./img/GitHub-pullrequest-branch.png)
-</kbd>
 
 
-#### 1.6.3 resolve and conflicts
 
-<kbd>
-![conflicts](./img/GitHub-pullrequest-resolve.png)
-</kbd>
+#### 1.6.3 Resolve any conflicts
+
+
+![conflicts](./img/GitHubpullrequestresolve.png)
+
 
 
 #### 1.6.4 commit the merge and close the Pull Request
 
-<kbd>
+
 ![commit](./img/GitHub-pullrequest-commit.png)
-</kbd>
+
 <br>
 <b>Congratulations! You are now a GitHub collaborator!</b>
 
@@ -118,14 +164,20 @@ git push -u origin <branchname> #push your changes to a new remote branch
 
 Now that you have installed GitHub Desktop and collaborated on a piece of code, we are going to develop a basic API call to pull data from a web service and convert it into a file to be consumed into a database. 
 
+### 2.1 make a group repository:
+
 To get started, take the steps necessary to create a repository for your Group. You should title it by the group names and add brandon.chiazza@gmail.com and jacoblgoodman@gmail.com as collaborators to those repositories. 
 
 Upon initiating the GitHub Repo for your Group, create a readme.md file and add the names of the group members to the read me. 
 
 Your result should look something like this: 
-<kbd>
+
 ![ReadMe](./img/readme_lab.PNG)
-</kbd>
 
-
-
+```markdown 
+# table example:
+|	Name	|	Email	|
+|---------------|---------------------|
+|Brandon Chiazza|brandon.chiazza@yu.edu|
+|Jacob Goodman	|jlgoodm1@mail.yu.edu|
+```
