@@ -1,6 +1,6 @@
 # Lab #3: Develop Code Repository and Push Commits 
 
-  
+
 **Points: 10**  
 **Assignment Type: Group submissions**
 
@@ -175,7 +175,7 @@ Your result should look something like this:
 ![ReadMe](./img/readme_lab.PNG)
 
 ```markdown 
-# table example:
+# markdown syntax to make table:
 |	Name	|	Email	|
 |---------------|---------------------|
 |Brandon Chiazza|brandon.chiazza@yu.edu|
