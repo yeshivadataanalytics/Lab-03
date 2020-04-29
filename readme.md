@@ -60,7 +60,7 @@ From GitHub desktop you can select clone from the file drop down your use the sh
 
 ### 1.2 Create and checkout a branch 
 
-![branch](\img\branch.png|width=5)
+<img src="./img/branch.png" width="500">
 
 Once we have cloned the repository, we will create a new **branch** with our *name* and  moved our git to this branch by **checking** it out. This will allow us to make and save changes without affecting the "master" branch.
 
@@ -200,8 +200,9 @@ start jupyter and open the file.
 
 ### 2.3. move twitter keys into anaconda library 
 
-Take the `twitter_keys.py` file and move it into the lib folder of your anaconda installation
+Take the `twitter_keys.py` file and move it into the lib folder of your anaconda installation:  
 **Anaconda3\lib\**
+
 this will make the file accessible via the `import` command everywhere on our computers:
 
 ```python
@@ -221,10 +222,10 @@ we will now execute the notebook get some twitter data, clean it, and place it i
 #### 2.4.1 authenticate
 the first step in accessing our API is to authenticate ourselves and get a token we will utlize to connect and get our twitter data.
 
-Twitter uses a kind of authentication called  OAuth 2.0 bear token: 
-some more information: 
-https://www.youtube.com/watch?v=BNEoKexlmA4
-https://medium.com/@technospace/an-introduction-to-oauth-2-0-4c71b5fb19ff
+Twitter uses a kind of authentication called  OAuth 2.0 bearer token:    
+here is some more information:   
+https://www.youtube.com/watch?v=BNEoKexlmA4  
+https://medium.com/@technospace/an-introduction-to-oauth-2-0-4c71b5fb19ff  
 
 For us what this means is our first step is to make a **post** request to the authentication end point `https://api.twitter.com/oauth2/token`  to get a string which will be required to make any additional 
 
