@@ -19,7 +19,7 @@ Your work this semester depends on you frequently syncing your local filesystem 
 When prompted, sign in to GitHub.com, so that you can work more effortlessly, without putting your username and password in every time. Now, we're ready to create our course repository.
 
 ## Step 4: Determine your Local Parent Directory
-Figure out where in your local computer you’d like to store the “Analytics-Programming” (or similarly named) directory that will hold assignments and other files for this class.
+Figure out where in your local computer you’d like to store the “Information Architecture” (or similarly named) directory that will hold files for the class or project.
 * Maybe you want your class folder to live inside “Documents”, or in a sub-folder, you choose somewhere else on your computer.
 
 ## Step 5: Create a Local Course Repository
