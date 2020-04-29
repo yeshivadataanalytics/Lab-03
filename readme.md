@@ -14,27 +14,21 @@ The following outlines the structure of the lab:
 
 
 1. **GitHub:**
-	1.1 clone repo 
-	1.2 create and checkout a branch
-	1.3 make and commit a change to readme.txt
-	1.4 push your changes back to GitHub
-	1.5 merge your changes on github.com
+	* 1.1 clone repo 
+	* 1.2 create and checkout a branch
+	* 1.3 make and commit a change to readme.txt
+	* 1.4 push your changes back to GitHub
+	* 1.5 merge your changes on github.com
 	
 2. **script: download date from API and save to S3**
-	2.1. Create a group repo
-	
-	2.2. Open .ipynb in jupyter
-	2.3. move twitter keys into anaconda library 
-	
-	2.4 run notebook
-	
-	​	2.4.1 authenticate
-	
-	​	2.4.2 query
-	
-	​	2.4.3 munge (data wrangling)
-	
-	​	2.4.4 save to S3
+	* 2.1. Create a group repo
+	* 2.2. Open .ipynb in jupyter
+	* 2.3. move twitter keys into anaconda library 
+	* 2.4 run notebook
+		* 2.4.1 authenticate
+		* 2.4.2 query
+		* 2.4.3 munge (data wrangling)
+		* 2.4.4 save to S3
 
 
 ## 1. GitHub:
