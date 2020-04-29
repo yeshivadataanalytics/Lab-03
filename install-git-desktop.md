@@ -45,8 +45,7 @@ Feeling a little lost?
 Try giving the [Git-Handbook](https://guides.github.com/introduction/git-handbook/) a read for a description of git basics and how git and GitHub work together.
 
 As a community of learners, we'll learn from each other's code as well as from more formal sources like our textbook. To that end, let's all share our public GitHub accounts.
+
 This will also prove that you've completed the necessary steps to begin working with this important tool. If you're feeling particularly ambitious, you can optionally create a README for your repository, or create a folder structure (with .gitkeep or some other 'dot' file used to make sure folders aren't empty and therefore disregarded by GitHub). 
-Here's what to do:
-* Find and comment on our M0 Proof of GitHub pin in Community. Don't create a new pin!
-* In your comment, provide the URL of your GitHub repository for this course.
-Please complete ASAP, but definitely prior to our M1 Live Session.
+
+
