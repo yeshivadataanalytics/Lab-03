@@ -127,9 +127,6 @@ On GitHub desktop the publish branch button will push our changes to a new branc
 ![push](./img/gui-push.png)
 
 
-
-
-
 ### 1.6 Merge changes 
 
 Once our branch is published to github.com we want to merge those changes back to the master branch. 
@@ -165,7 +162,7 @@ Once our branch is published to github.com we want to merge those changes back t
 <b>Congratulations! You are now a GitHub collaborator!</b>
 
 
-## 2. Script: download date from API and save to S3:
+## 2. Script: download date from API and save to S3.
 
 Now that you have installed GitHub Desktop and collaborated on a piece of code, we are going to develop a basic API call to pull data from a web service and convert it into a file to be consumed into a database. 
 
