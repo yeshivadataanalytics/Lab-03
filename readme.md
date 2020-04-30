@@ -1,3 +1,10 @@
+Group 4
+| Name | Email |
+| Mazaltov | mazaltov email | 
+| Mangling | Mangling email | 
+| Julian | jaruggie@mail.yu.edu | 
+
+
 # Lab #3: Develop Code Repository and Push Commits 
 
 
