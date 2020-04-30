@@ -12,7 +12,6 @@ You will split up into the same groups designated for your final projects and a 
 
 The following outlines the structure of the lab: 
 
-
 1. **GitHub:**
 	* 1.1 clone repo 
 	* 1.2 create and checkout a branch
@@ -32,6 +31,11 @@ The following outlines the structure of the lab:
 
 
 ## 1. GitHub:
+
+For an overview on how to commit changes to a branch and merge with a master set of Code, please review the following link: 
+
+[Committing and Reviewing Changes to your Project] (https://help.github.com/en/desktop/contributing-to-projects/committing-and-reviewing-changes-to-your-project)
+
 ### 1.1 clone repo 
 
 The first step is to "Clone" the repository. This copy's the files to your local computer and creates a connection to repository. 
