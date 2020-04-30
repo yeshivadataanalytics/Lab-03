@@ -85,8 +85,6 @@ From GitHub desktop, click the current branch dropdown and then select new branc
 
 
 
-
-
 ### 1.3 make and commit a change to hellogroup.txt
 
 We are now going to modify this repository and save those changes into git by **Committing ** them to the repository.  This will allow us to share our changes back to the repository on github.com.	
@@ -212,25 +210,25 @@ This part of the lab is going to require you to take the following steps:
 - Per Part I of the lab you have already cloned the Lab3 repository in your local GitHub Desktop code management system.
 - Log into GitHub Desktop and navigate to the &quot;Current branch&quot; drop down.
 
-![](RackMultipart20200430-4-18y2qmf_html_97216ef84d805c9b.png)
+![](./img/lab03-1.png)
 
 ## Step 2. Update the readme.md markdown file with your group name information
 
 - Once you have selected a group member, navigate to the repository selector and click &quot;Show in Explorer&quot; on a Windows machine. This will take you to the local path for your GitHub repository. See below
 
-![](RackMultipart20200430-4-18y2qmf_html_268eb3b8165ceb1e.png)
+![](./img/lab03-2.png)
 
 - Once you have navigated there, open the readme.md file with your favorite code editor (could be Notepad on Windows machine):
 
-![](RackMultipart20200430-4-18y2qmf_html_ebfa28a48242b7de.png)
+![](./img/lab03-3.png)
 
 - Your result should look something like this at the top of the readme.md file
 
-[![](RackMultipart20200430-4-18y2qmf_html_94a019965e51560b.png)](https://github.com/yeshivadataanalytics/Lab3/blob/master/img/readme_lab.PNG)
+![](./img/lab03-4.png)
 
 - Now commit your changes to your branch with a comment. Note: make sure you are committing to your branch!
 
-![](RackMultipart20200430-4-18y2qmf_html_f1e1e2d6db40ed37.png)
+![](./img/lab03-5.png)
 
 ## Step 3. Coordinate with your group to ensure you can run the script that exists.
 
@@ -248,7 +246,7 @@ This part of the lab is going to require you to take the following steps:
     - Convert the results to a dataframe
     - Send those results as a CSV file to the S3 bucket called &quot;s3:/lab-03/&quot;
 
-![](RackMultipart20200430-4-18y2qmf_html_21a9cbe0528bc077.png)
+![](./img/lab03-6.png)
 
 ## Step 4. Modify the script to change the filename to include your Group name
 
@@ -256,3 +254,6 @@ This part of the lab is going to require you to take the following steps:
 2. Make any other changes you&#39;d like to the search parameters. See [here](https://developer.twitter.com/en/docs/tweets/search/api-reference/get-search-tweets) for a standard list of parameters.
 
 ## Step 5. Create a commit to the branch and notify the professor of your changes to be merged with master.
+
+![](./img/lab03-5.png)
+
