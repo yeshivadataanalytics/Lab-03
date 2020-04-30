@@ -12,7 +12,7 @@ You will split up into the same groups designated for your final projects and a 
 
 The following outlines the structure of the lab: 
 
-1. **1. GitHub: Clone the repo and create a group branch **
+1. **1. GitHub: Clone the repo and create a group branch**
 	* Step 1. clone repo 
 	* Step 2. create and checkout a branch
 	* Step 3. make and commit a change to readme.txt
