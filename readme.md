@@ -18,6 +18,7 @@ The following outlines the structure of the lab:
 	* 1.3 make and commit a change to readme.txt
 	* 1.4 push your changes back to GitHub
 	* 1.5 merge your changes on github.com
+	* 1.6 check out your groups branch before moving on to part 2
 	
 2. **script: download date from API and save to S3**
 	* 2.1. Create a group repo
@@ -131,39 +132,62 @@ On GitHub desktop the publish branch button will push our changes to a new branc
 ![push](./img/gui-push.png)
 
 
-### 1.6 Merge changes 
+### 1.5 Merge changes 
 
 Once our branch is published to github.com we want to merge those changes back to the master branch. 
 
 
 
-#### 1.6.1 Open a pull request on the repo  https://github.com/yeshivadataanalytics/{reponame}>
+#### 1.5.1 Open a pull request on the repo  https://github.com/yeshivadataanalytics/lab3>
 
 ![pull request](./img/GitHub-pullrequest-newpr.png)
 
+git
 
-
-#### 1.6.2 Select the branch that you pushed
+#### 1.5.2 Select your groups branch and the one that you just made
 
 
 ![select branch](./img/GitHub-pullrequest-branch.png)
 
 
 
-#### 1.6.3 Resolve any conflicts
+#### 1.5.3 Resolve any conflicts
 
 
 ![conflicts](./img/GitHubpullrequestresolve.png)
 
 
 
-#### 1.6.4 commit the merge and close the Pull Request
+#### 1.5.4 commit the merge and close the Pull Request
 
 
 ![commit](./img/GitHub-pullrequest-commit.png)
 
 <br>
+
+
+
+### 1.6  check out your groups branch before moving on to part 2
+
+before we move to part 2 we will update our local repository and check out our groups branch
+```bash 
+git fetch -all #get updates to all branches
+git checkout  {group_0} # replace with your groups name 
+
+```
+from GitHub desktop 
+
+first run fetch:
+
+![](img\gui-fetch.png)
+
+then select your groups branch from the branch drop down:
+
+![branch](./img/gui-branch.png)
+
 <b>Congratulations! You are now a GitHub collaborator!</b>
+
+
 
 
 ## 2. Script: download data from API and save to S3.
@@ -215,7 +239,8 @@ which anaconda # this command should work on both windows and mac
 we will now execute the notebook get some twitter data, clean it, and place it in an S3 bucket
 
 #### 2.4.1 authenticate
-the first step in accessing our API is to authenticate ourselves and get a token we will utlize to connect and get our twitter data.
+
+the first step in accessing our API is to authenticate ourselves and get a token we will utilize to connect and get our twitter data.
 
 Twitter uses a kind of authentication called  OAuth 2.0 bearer token:    
 here is some more information:   
