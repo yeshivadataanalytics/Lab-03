@@ -1,1 +1,3 @@
 hello group:
+
+this is how you github command line
