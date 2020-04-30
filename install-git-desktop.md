@@ -38,7 +38,7 @@ If you’ve set up GitHub Desktop with your login credentials, you can very easi
 ## Step 7: Visit Your Cloud Repository
 * Navigate to your GitHub.com account and you should see your new repository! Simple, right?
 * Double-check that it’s a public, not private, repository by checking in Settings.
-A good organizational method would be to make a new folder (say, “module_1”) for every assignment, and add files and folders within that folder. Then you have simple file organization, and you can easily grab the URL for just a single file or folder to submit to your instructor.
+A good organizational method would be to make a new folder (say, “lab 03”) for every assignment, and add files and folders within that folder. Then you have simple file organization, and you can easily grab the URL for just a single file or folder to submit to your instructor.
 However, just be aware that empty folders won’t get published from your local computer to GitHub.com. You didn’t make a mistake! So don’t panic if your great directory organization structure doesn’t show up… it will, once those folders have files.
 * If you're feeling particularly advanced, you can add an empty file named .gitkeep (the dot is important!) to an otherwise empty folder to make sure GitHub will show your folder structure, but this is completely optional.
 Feeling a little lost? 
