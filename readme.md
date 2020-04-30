@@ -34,7 +34,7 @@ The following outlines the structure of the lab:
 
 For an overview on how to commit changes to a branch and merge with a master set of Code, please review the following link: 
 
-[Committing and Reviewing Changes to your Project] (https://help.github.com/en/desktop/contributing-to-projects/committing-and-reviewing-changes-to-your-project)
+[Committing and Reviewing Changes to your Project](https://help.github.com/en/desktop/contributing-to-projects/committing-and-reviewing-changes-to-your-project)
 
 ### 1.1 clone repo 
 
