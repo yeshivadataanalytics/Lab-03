@@ -12,24 +12,20 @@ You will split up into the same groups designated for your final projects and a 
 
 The following outlines the structure of the lab: 
 
-1. **GitHub:**
-	* 1.1 clone repo 
-	* 1.2 create and checkout a branch
-	* 1.3 make and commit a change to readme.txt
-	* 1.4 push your changes back to GitHub
-	* 1.5 merge your changes on github.com
-	* 1.6 check out your groups branch before moving on to part 2
+1. **1. GitHub: Clone the repo and create a group branch **
+	* Step 1. clone repo 
+	* Step 2. create and checkout a branch
+	* Step 3. make and commit a change to readme.txt
+	* Step 4. push your changes back to GitHub
+	* Step 5. merge your changes on github.com
+	* Step 6. check out your groups branch before moving on to part 2
 	
-2. **script: download date from API and save to S3**
-	* 2.1. Create a group repo
-	* 2.2. Open .ipynb in jupyter
-	* 2.3. move twitter keys into anaconda library 
-	* 2.4 run notebook
-		* 2.4.1 authenticate
-		* 2.4.2 query
-		* 2.4.3 munge (data wrangling)
-		* 2.4.4 save to S3
-
+2. **2. Run a Twitter API and load file into Amazon S3**
+	* Step 1. Connect to your branch for your group through GitHub Desktop.
+	* Step 2. Update the readme.md markdown file with your group name information
+	* Step 3. Coordinate with your group to ensure you can run the script that exists.
+	* Step 4. Modify the script to change the filename to include your Group name
+	* Step 5. Create a commit to the branch and notify the professor of your changes to be merged with master.
 
 ## 1. GitHub:
 
