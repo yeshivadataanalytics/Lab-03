@@ -1,3 +1,10 @@
+ELi Weiss
+Sara Ferrari
+Michael Vizelman
+Tianyu Sun
+Jingmin
+
+
 # Lab #3: Develop Code Repository and Push Commits 
 
 
