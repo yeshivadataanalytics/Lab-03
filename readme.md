@@ -189,7 +189,7 @@ then select your groups branch from the branch drop down:
 
 
 
-**2. Run a Twitter API and load file into Amazon S3**
+# 2. Run a Twitter API and load file into Amazon S3
 
 Now that you have installed GitHub Desktop and collaborated on a piece of code, we are going to develop a basic API call to pull data from a web service and convert it into a file to be posted to Amazon S3. The goal of this part of the Lab is to:
 
@@ -207,14 +207,14 @@ This part of the lab is going to require you to take the following steps:
 - **Step 4.** Modify the script to change the filename to include your Group name
 - **Step 5.** Create a commit to the branch and notify the professor of your changes to be merged with master.
 
-**Step 1.** Connect to your branch for your group through GitHub Desktop.
+## Step 1. Connect to your branch for your group through GitHub Desktop.
 
 - Per Part I of the lab you have already cloned the Lab3 repository in your local GitHub Desktop code management system.
 - Log into GitHub Desktop and navigate to the &quot;Current branch&quot; drop down.
 
 ![](RackMultipart20200430-4-18y2qmf_html_97216ef84d805c9b.png)
 
-**Step 2.** Update the readme.md markdown file with your group name information
+## Step 2. Update the readme.md markdown file with your group name information
 
 - Once you have selected a group member, navigate to the repository selector and click &quot;Show in Explorer&quot; on a Windows machine. This will take you to the local path for your GitHub repository. See below
 
@@ -232,7 +232,7 @@ This part of the lab is going to require you to take the following steps:
 
 ![](RackMultipart20200430-4-18y2qmf_html_f1e1e2d6db40ed37.png)
 
-**Step 3.** Coordinate with your group to ensure you can run the script that exists.
+## Step 3. Coordinate with your group to ensure you can run the script that exists.
 
 - Before you begin, you must copy and paste the _twitter\_keys.py_ file to the location where you run your package installation. These are the keys that are required to run the Twitter API.
   - Take the twitter\_keys.py file and move it into the lib folder of your anaconda installation:
@@ -250,9 +250,9 @@ This part of the lab is going to require you to take the following steps:
 
 ![](RackMultipart20200430-4-18y2qmf_html_21a9cbe0528bc077.png)
 
-**Step 4.** Modify the script to change the filename to include your Group name
+## Step 4. Modify the script to change the filename to include your Group name
 
 1. groupname= &#39;Group\_1\_&#39; #name of your group
 2. Make any other changes you&#39;d like to the search parameters. See [here](https://developer.twitter.com/en/docs/tweets/search/api-reference/get-search-tweets) for a standard list of parameters.
 
-**Step 5.** Create a commit to the branch and notify the professor of your changes to be merged with master.
+## Step 5. Create a commit to the branch and notify the professor of your changes to be merged with master.
