@@ -1,3 +1,15 @@
+<<<<<<< Updated upstream
+=======
+# Group 1 - Lab 3 Execise
+
+|       Name    |       Email       |
+|---------------|-------------------|
+|Jingmin chen   |jchen11@mail.yu.edu|
+|               |                   |
+
+
+
+>>>>>>> Stashed changes
 # Lab #3: Develop Code Repository and Push Commits 
 
 
