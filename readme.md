@@ -6,7 +6,7 @@
 |---------------|-------------------|
 |Jingmin chen   |jchen11@mail.yu.edu|
 |Eli Weiss      |enwweiss@gmail.com |
-
+|Michael Vizelman|vizelman@mail.yu.edu|
 
 
 
