@@ -12,6 +12,16 @@
 >>>>>>> Stashed changes
 # Lab #3: Develop Code Repository and Push Commits 
 
+## Group 1 Members:
+
+|Name | Email|
+|-----|------|
+|Sara Ferrari|sferrari@mail.yu.edu|
+|Michael Vizelman|vizelman@mail.yu.edu|
+|Eli Weiss|mailto:enwweiss@gmail.com|
+|Jingmin Chen| Jingmin@mail.yu.edu|
+|Tianyu |Tianyu@mail.yu.edu|
+
 
 **Points: 10**  
 **Assignment Type: Group submissions**
