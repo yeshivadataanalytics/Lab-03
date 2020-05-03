@@ -11,7 +11,7 @@
 |Jingmin chen   |jchen11@mail.yu.edu|
 |Eli Weiss      |enwweiss@gmail.com |
 |Michael Vizelman|vizelman@mail.yu.edu|
-
+|Sara Ferrari|sferrari@mail.yu.edu|
 **Points: 10**  
 **Assignment Type: Group submissions**
 
