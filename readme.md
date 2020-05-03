@@ -12,6 +12,8 @@
 |Eli Weiss      |enwweiss@gmail.com |
 |Michael Vizelman|vizelman@mail.yu.edu|
 |Sara Ferrari|sferrari@mail.yu.edu|
+|Tianuy Sun|850008112@qq.com|
+
 **Points: 10**  
 **Assignment Type: Group submissions**
 
