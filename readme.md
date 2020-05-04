@@ -1,4 +1,4 @@
-#Group 4
+# Group 4 - Lab 3 Exercise
 | Name     | Email                |
 |----------|----------------------|
 | Mazaltov | mazaltov email       | 
