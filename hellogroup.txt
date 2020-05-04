@@ -1,2 +1,2 @@
 hello group:
-Julian from group 4 here!
+Hello, Julian is here
