@@ -1,0 +1,9 @@
+# we can use pandas to put data directly into an s3 bucket
+#prepare csv file name   
+filename = 'C:/'#specify location of s3:/{my-bucket}/
+groupname= 'Group_1_' #name of your group
+datetime = time.strftime("%Y%m%d%H%M%S") #timestamp
+filenames3 = "%s%s%s.csv"%(filename,groupname,datetime) #name of the filepath and csv file
+
+print(filenames3)
+df.to_csv(filenames3, header = True)
