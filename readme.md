@@ -1,7 +1,7 @@
 # Group 4 - Lab 3 Exercise
 | Name     | Email                |
 |----------|----------------------|
-| Mazaltov | mazaltov email       | 
+| Mazaltov | mazal-tov.amsellem@mail.yu.edu       | 
 | Mangling | Mangling email       | 
 | Julian   | jaruggie@mail.yu.edu | 
 
