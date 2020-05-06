@@ -5,7 +5,7 @@
 | Rachel Ward | rlward@mail.yu.edu |
 |  Sarah Bismuth | bismuth@mail.yu.edu |
 | Zhijing Zhang | zzhang14@mail.yu.edu |
-| Zhihong Zhang | zzhang?@mail.yu.edu |
+| Zhihong Zhang | zzhang13@mail.yu.edu |
 
 # Lab #3: Develop Code Repository and Push Commits 
 
