@@ -1,3 +1,11 @@
+# Group 4 - Lab 3 Exercise
+| Name     | Email                |
+|----------|----------------------|
+| Mazaltov | mazal-tov.amsellem@mail.yu.edu       | 
+| Mangling | myang3@mail.yu.edu       | 
+| Julian   | jaruggie@mail.yu.edu | 
+
+
 # Lab #3: Develop Code Repository and Push Commits 
 
 
