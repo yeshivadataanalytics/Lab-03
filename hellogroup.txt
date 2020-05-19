@@ -1,1 +1,1 @@
-hello group:
+hello group: welcome to Manling Github!
