@@ -1,1 +1,2 @@
 hello group:
+this is how you git gui
