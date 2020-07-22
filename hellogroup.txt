@@ -1,2 +1,3 @@
 hello group:
-this is how you git gui
+
+THIS IS HOW YOU GIT commandline
