@@ -1,4 +1,7 @@
 # Lab #3: Develop Code Repository and Push Commits 
+| Name 	  | Email|
+| ------------- | ------------- |
+| Haris Sumra | haris.sumra@yu.edu |
 
 
 **Points: 10**  
