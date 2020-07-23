@@ -1,3 +1,10 @@
+| Name 	  | Email|
+| ------------- | ------------- |
+| Benny Cohen | cohenb50@gmail.com |
+| Haris Sumra	  | jlgoodm1@mail.yu.edu |
+
+
+
 # Lab #3: Develop Code Repository and Push Commits 
 
 
