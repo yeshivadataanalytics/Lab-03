@@ -165,7 +165,7 @@ git
 
 before we move to part 2 we will update our local repository and check out our groups branch
 ```bash 
-git fetch -all #get updates to all branches
+git fetch --all #get updates to all branches
 git checkout  {group_0} # replace with your groups name 
 
 ```
