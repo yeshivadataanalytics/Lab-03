@@ -1,3 +1,13 @@
+# Group 3 - Lab 3 Exercise
+|Name              |  Email
+------------------------------------------------
+Jesus Olivera      |olivera@mail.yu.edu
+Pujita Ravichandar | ravichandar@mail.yu.edu
+Anna Imhoff        | anna.imhoff@yu.edu
+Elham Bahrami      | bahrami@mail.yu.edu
+Daniel Strauss	   | daniel.strauss@mail.yu.edu
+
+
 # Lab #3: Develop Code Repository and Push Commits 
 
 
