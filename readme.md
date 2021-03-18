@@ -132,7 +132,7 @@ Once our branch is published to github.com we want to merge those changes back t
 
 
 
-#### 1.5.1 Open a pull request on the repo  https://github.com/yeshivadataanalytics/lab3>
+#### 1.5.1 Open a pull request on the repo  https://github.com/yeshivadataanalytics/lab-03>
 
 ![pull request](./img/GitHub-pullrequest-newpr.png)
 
