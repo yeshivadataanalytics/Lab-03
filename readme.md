@@ -1,3 +1,26 @@
+<<<<<<< Updated upstream
+=======
+# Group 3 - Lab 3 Exercise
+|Name              |  Email
+------------------------------------------------
+Jesus Olivera      |olivera@mail.yu.edu
+Pujita Ravichandar | ravichandar@mail.yu.edu
+Anna Imhoff        | anna.imhoff@yu.edu
+Elham Bahrami      | bahrami@mail.yu.edu
+Daniel Strauss	   | daniel.strauss@mail.yu.edu
+
+|Name (Group 2)    |  Email
+------------------------------------------------
+Marla Goodman      |marla.goodman@yu.edu
+Alan Leidner       |alan.leidner@mail.yu.edu
+Yuehao Wang        |ywang29@mail.yu.edu
+Ke Chen            |kchen6@mail.yu.edu/
+Jiaqi Min	   |jmin2@mail.yu.edu
+
+
+
+
+>>>>>>> Stashed changes
 # Lab #3: Develop Code Repository and Push Commits 
 
 
