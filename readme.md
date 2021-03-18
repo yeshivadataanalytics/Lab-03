@@ -1,5 +1,4 @@
-<<<<<<< Updated upstream
-=======
+
 # Group 3 - Lab 3 Exercise
 |Name              |  Email
 ------------------------------------------------
@@ -19,8 +18,6 @@ Jiaqi Min	   |jmin2@mail.yu.edu
 
 
 
-
->>>>>>> Stashed changes
 # Lab #3: Develop Code Repository and Push Commits 
 
 
