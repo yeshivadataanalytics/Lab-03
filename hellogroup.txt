@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-hello group: JINMING Chen
+hello group: Group 2
 =======
 hello group:
 this is the group text file update
