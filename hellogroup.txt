@@ -1,1 +1,2 @@
 hello group:
+this is the group text file update
