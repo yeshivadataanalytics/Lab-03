@@ -13,7 +13,7 @@ Daniel Strauss	   | daniel.strauss@mail.yu.edu
 Marla Goodman      |marla.goodman@yu.edu
 Alan Leidner       |alan.leidner@mail.yu.edu
 Yuehao Wang        |ywang29@mail.yu.edu
-Ke Chen            |kchen6@mail.yu.edu/
+Ke Chen            |kchen6@mail.yu.edu
 Jiaqi Min	   |jmin2@mail.yu.edu
 
 
