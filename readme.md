@@ -5,6 +5,12 @@
 **Points: 10**  
 **Assignment Type: Group submissions**
 
+Jinming Chen: jchen12@mail.yu.edu
+Ziyang Guo: zguo3@mail.yu.edu
+Ale Zapata: zapataso@mail.yu.edu
+Benjamin Freund: 
+Randy Leon: 
+
 ### Description:
 
 In this lab, we will learn how to develop a GitHub Repository, generate a repository for a series of  functions and push the changes to a GitHub Repository
