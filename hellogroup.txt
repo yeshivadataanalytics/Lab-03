@@ -1,6 +1,6 @@
 <<<<<<< HEAD
-hello group: Group 2
+hello group: 
 =======
-hello group:
+hello group:Group 1, Looking forward to working on this lab!
 this is the group text file update
 >>>>>>> ac37d60ded6bb3f12e63001336aacc67ec2df9b6
