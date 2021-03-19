@@ -1,7 +1,6 @@
-<<<<<<< HEAD
-hello group: I hope this works
+JinmingChen
 
-=======
-hello group:
+hello group:Hi, Group 1, Looking forward to working on this lab!
+
 this is the group text file update
->>>>>>> ac37d60ded6bb3f12e63001336aacc67ec2df9b6
+ac37d60ded6bb3f12e63001336aacc67ec2df9b6
