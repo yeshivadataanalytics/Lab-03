@@ -5,11 +5,6 @@
 **Points: 10**  
 **Assignment Type: Group submissions**
 
-**Jinming Chen: jchen12@mail.yu.edu**  
-**Ziyang Guo: zguo3@mail.yu.edu**  
-**Ale Zapata: zapataso@mail.yu.edu**  
-**Benjamin Freund:**  
-**Randy Leon:**  
 
 ### Description:
 
