@@ -5,11 +5,6 @@
 **Points: 10**  
 **Assignment Type: Group submissions**
 
-**Jinming Chen: jchen12@mail.yu.edu**  
-**Ziyang Guo: zguo3@mail.yu.edu**  
-**Ale Zapata: zapataso@mail.yu.edu**  
-**Benjamin Freund:**  
-**Randy Leon:**  
 
 ### Description:
 
@@ -228,6 +223,14 @@ This part of the lab is going to require you to take the following steps:
 - Your result should look something like this at the top of the readme.md file
 
 ![](./img/lab03-4.png)
+
+|Name|Email|
+|----|------|
+|Jinming Chen|jchen12@mail.yu.edu|
+|Ziyang Guo|zguo3@mail.yu.edu|
+|Ale Zapata|zapataso@mail.yu.edu|
+|Benjamin Freund|bfreund@mail.yu.edu|
+|Randy Leon|rleon@mail.yu.edu|
 
 - Now commit your changes to your branch with a comment. Note: make sure you are committing to your branch!
 
